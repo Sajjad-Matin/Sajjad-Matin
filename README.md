@@ -1,16 +1,113 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Sajjad-Matin/Sajjad-Matin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sajjad Matin
 
-Here are some ideas to get you started:
+**Full-Stack Engineer · Clean Architecture · AI-Powered Applications**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*I design and build production-grade systems — from scalable APIs to intelligent, LLM-driven products.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sajjad-matin-mahmodi-4308602b5)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-vert-seven.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajjadmatinm@gmail.com)
+
+</div>
+
+---
+
+## About Me
+
+I'm a full-stack developer based in Kabul, Afghanistan, focused on building **open-source tools and AI-powered applications** with an emphasis on clean architecture and maintainable systems.
+
+- 🧠 Currently integrating **LLMs into real-world products** — from intelligent APIs to context-aware UIs
+- 🏗️ Strong believer in **domain-driven design** and keeping business logic away from frameworks
+- 🔭 Building in public — all my serious projects are open source
+- 💬 Ask me about **NestJS architecture, TypeScript patterns, or AI integration**
+
+---
+
+## Tech Stack
+
+**Languages & Runtimes**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend & Architecture**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=flat-square)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**AI & LLMs**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+---
+
+## Featured Projects
+
+### 🏢 [Real Estate Management System](https://github.com/Sajjad-Matin/Real-Estate-Management-System)
+A full-stack property management platform built with **NestJS + TypeScript + PostgreSQL**. Features role-based access control, property listings, tenant management, and a clean domain-driven architecture.
+
+`NestJS` `TypeScript` `PostgreSQL` `REST API` `RBAC`
+
+---
+
+### 📅 [Timetable Generator](https://github.com/Sajjad-Matin/timetable-generator)
+An automated scheduling engine that resolves conflicts across rooms, teachers, and time slots. Built with constraint-satisfaction logic and a clean separation between the scheduling algorithm and the UI layer.
+
+`JavaScript` `Algorithm Design` `Constraint Solving`
+
+---
+
+### 🎓 [EduLearn Academy](https://github.com/Sajjad-Matin/edulearn-academy)
+A learning management system with course management, student enrollment, and progress tracking. Architected with scalability in mind using **NestJS and TypeScript**.
+
+`NestJS` `TypeScript` `LMS` `REST API`
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Sajjad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sajjad-Matin&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajjad-Matin&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
+## Currently
+
+- 🔨 Building AI-powered open-source tools
+- 📖 Deep-diving into **LLM orchestration** and **agentic systems**
+- 🤝 Open to **collaborations** on open-source projects and **freelance** opportunities
+
+---
+
+<div align="center">
+
+*"Build systems that are easy to change, not just easy to build."*
+
+</div>
