@@ -66,23 +66,23 @@ I'm a full-stack developer based in Kabul, Afghanistan, focused on building **op
 ## Featured Projects
 
 ### 🏢 [Real Estate Management System](https://github.com/Sajjad-Matin/Real-Estate-Management-System)
-A full-stack property management platform built with **NestJS + TypeScript + PostgreSQL**. Features role-based access control, property listings, tenant management, and a clean domain-driven architecture.
+A government-grade platform that digitizes the management of state-owned real estate across the country — replacing paper-based records with a centralized, secure system. Supports property registration, staff/department assignments, lease and trade contract management, and full reporting dashboards so government officials have real-time visibility over national property assets.
 
-`NestJS` `TypeScript` `PostgreSQL` `REST API` `RBAC`
+`NestJS` `React` `Tailwind CSS` `PostgreSQL` `JWT` `TypeScript`
 
 ---
 
 ### 📅 [Timetable Generator](https://github.com/Sajjad-Matin/timetable-generator)
-An automated scheduling engine that resolves conflicts across rooms, teachers, and time slots. Built with constraint-satisfaction logic and a clean separation between the scheduling algorithm and the UI layer.
+An automated school scheduling engine that eliminates the manual headache of timetable planning. Input your teachers, classes, and rooms — the system handles the rest, generating conflict-free schedules based on teacher availability across all classes. Features multi-room support, conflict detection, and PDF export for instant distribution.
 
-`JavaScript` `Algorithm Design` `Constraint Solving`
+`Next.js` `Tailwind CSS` `Node.js` `Express` `PostgreSQL` `Prisma` `TypeScript`
 
 ---
 
 ### 🎓 [EduLearn Academy](https://github.com/Sajjad-Matin/edulearn-academy)
-A learning management system with course management, student enrollment, and progress tracking. Architected with scalability in mind using **NestJS and TypeScript**.
+A full-featured online learning platform built for the Afghan market. Students can enroll in courses, watch video lessons, take quizzes, and track their progress — with payments processed via **HesabPay**, Afghanistan's local payment gateway. Built with a clean REST API backend and a responsive React frontend.
 
-`NestJS` `TypeScript` `LMS` `REST API`
+`Laravel` `PHP` `MySQL` `REST API` `React` `Chakra UI`
 
 ---
 
