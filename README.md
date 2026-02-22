@@ -90,11 +90,16 @@ A full-featured online learning platform built for the Afghan market. Students c
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sajjad-Matin&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Sajjad's GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajjad-Matin&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+
+
 
 <img src="https://streak-stats.demolab.com?user=Sajjad-Matin&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sajjad-Matin&theme=github_dark" alt="Profile Summary" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sajjad-Matin&theme=github_dark" alt="Repos Per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sajjad-Matin&theme=github_dark" alt="Most Commit Language" />
 
 </div>
 
