@@ -90,9 +90,11 @@ A full-featured online learning platform built for the Afghan market. Students c
 
 <div align="center">
 
-![Sajjad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sajjad-Matin&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Sajjad-Matin&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Sajjad's GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajjad-Matin&layout=compact&theme=github_dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajjad-Matin&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com?user=Sajjad-Matin&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
