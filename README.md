@@ -94,8 +94,6 @@ A full-featured online learning platform built for the Afghan market. Students c
 
 
 
-<img src="https://streak-stats.demolab.com?user=Sajjad-Matin&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sajjad-Matin&theme=github_dark" alt="Profile Summary" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sajjad-Matin&theme=github_dark" alt="Repos Per Language" />
